@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'Helvetica Neue';
+  src: url('//db.onlinewebfonts.com/t/0d49fc455f4a8951a42daf952412a713.eot');
+  src: url('https://db.onlinewebfonts.com/t/0d49fc455f4a8951a42daf952412a713.eot?#iefix') format('embedded-opentype'),
+    url('https://db.onlinewebfonts.com/t/0d49fc455f4a8951a42daf952412a713.woff2') format('woff2'),
+    url('https://db.onlinewebfonts.com/t/0d49fc455f4a8951a42daf952412a713.woff') format('woff'),
+    url('https://db.onlinewebfonts.com/t/0d49fc455f4a8951a42daf952412a713.ttf') format('truetype'),
+    url('https://db.onlinewebfonts.com/t/0d49fc455f4a8951a42daf952412a713.svg#Helvetica Neue') format('svg');
+}
+
+@import url('https://fast.fonts.net/lt/1.css?apiType=da&c=a68132de-fcad-4183-afff-8c48f1fa2587&fontids=5101916');
+
+$basefont: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+$titleText: 'Futura Pro Demi W05 Regular';
+$baseColor: #000;
+$secColor: #535252;
+$filterTextColor: #b4b4b4;
+$lightText: #7f7f7f;
+$errorText: #900; 
+$labelTextStyle: #7f7f7f;
+$inputBorder: #000;
+$gray: #2f2f35;
+$inputTextStyle: #747474;
+$socLinkBg: #f2f2f2;
+$socLinkBorder: #e6e6e6;
+$tabBorderBottom: #707070;
+$feedbg: #faf7f7;
+$faqText: #b4b4b4;
+$widgetBg: #000000;
+$textorange: #ffa500;
+$blackLight: rgba(0, 0, 0, 0.2);
+$lightBg: #f9f9f9;
+$borderColor: #e9e9e9;
+$textColor-70: #707070;
+$white: #fff;
+$boxShadow: 0px 0px 20px #00000012;
+$blueclr: #0497be;
+
+.textShadow {
+  -webkit-text-stroke: 0px #eeecec;
+  text-stroke: 0px #eeecec;
+}
